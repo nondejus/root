@@ -1,10 +1,20 @@
 fpu
 ===
 
+0
+
+-------    x(4)
+
+0 0 0 2    START OF TEXT
+
+-------    hex
+
 6 F 1 4    演 to develop
 7 7 3 C    眼 eye; eyelet, hole, opening
 7 8 1 4    研 grind, rub; study, research
 8 A 0 0    言 words, speech; speak, say
+
+-------    unicode
 
 6 D 6 E    浮 to float, drift, waft; to exceed; superfluous
 9 E D E    點 dot, speck, spot; point, degree
